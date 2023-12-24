@@ -1,3 +1,4 @@
+document.body.innerHTML = "";
 document.write('<!DOCTYPE html>');
 document.write('<html>');
 document.write('<head>');
